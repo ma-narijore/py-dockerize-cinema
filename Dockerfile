@@ -1,4 +1,4 @@
-FROM python:3.13-slim
+FROM python:3.10-slim
 LABEL authors="olehfras"
 
 WORKDIR /app
